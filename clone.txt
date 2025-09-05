@@ -1,0 +1,2 @@
+git clone git@gitee.com:Ginkgo_leaf/sf32-lb52.git
+git log 与git checkout
